@@ -1,0 +1,380 @@
+[
+    {
+        "id": 100,
+        "name": "Kim Jong-un",
+        "avatar": [
+            "https://github.com/anhptumax/prank-sounds-res/raw/main/prank_img_idol/Kim Jong-un.png",
+            "https://github.com/thubow/prank-video-idol/raw/main/prank_img_idol/Kim Jong-un.png",
+            "https://github.com/hongnhungumax/prank-video-idol/raw/main/prank_img_idol/Kim Jong-un.png"
+        ],
+        "video": [
+            "https://github.com/anhptumax/prank-sounds-res/raw/main/prank_video_idol/Kim Jong-un.webm",
+            "https://github.com/thubow/prank-video-idol/raw/main/prank_video_idol/Kim Jong-un.webm",
+            "https://github.com/hongnhungumax/prank-video-idol/raw/main/prank_video_idol/Kim Jong-un.webm"
+        ],
+        "messenger": "Be strong and focused",
+        "isCelebrity": true,
+        "adsVc": true,
+        "adsMs": false
+    },
+    {
+        "id": 101,
+        "name": "Elon Musk",
+        "avatar": [
+            "https://github.com/anhptumax/prank-sounds-res/raw/main/prank_img_idol/Elon Musk.png",
+            "https://github.com/thubow/prank-video-idol/raw/main/prank_img_idol/Elon Musk.png",
+            "https://github.com/hongnhungumax/prank-video-idol/raw/main/prank_img_idol/Elon Musk.png"
+        ],
+        "video": [
+            "https://github.com/anhptumax/prank-sounds-res/raw/main/prank_video_idol/Elon Musk.webm",
+            "https://github.com/thubow/prank-video-idol/raw/main/prank_video_idol/Elon Musk.webm",
+            "https://github.com/hongnhungumax/prank-video-idol/raw/main/prank_video_idol/Elon Musk.webm"
+        ],
+        "messenger": "I want to spend a lot of money.",
+        "isCelebrity": true,
+        "adsVc": true,
+        "adsMs": false
+    },
+    {
+        "id": 102,
+        "name": "Vladimir Vladimirovich Putin",
+        "avatar": [
+            "https://github.com/anhptumax/prank-sounds-res/raw/main/prank_img_idol/Putin.png",
+            "https://github.com/thubow/prank-video-idol/raw/main/prank_img_idol/Putin.png",
+            "https://github.com/hongnhungumax/prank-video-idol/raw/main/prank_img_idol/Putin.png"
+        ],
+        "video": [
+            "https://github.com/anhptumax/prank-sounds-res/raw/main/prank_video_idol/Putin.webm",
+            "https://github.com/thubow/prank-video-idol/raw/main/prank_video_idol/Putin.webm",
+            "https://github.com/hongnhungumax/prank-video-idol/raw/main/prank_video_idol/Putin.webm"
+        ],
+        "messenger": "Be persistent and know how to seize opportunities.",
+        "isCelebrity": true,
+        "adsVc": false,
+        "adsMs": false
+    },
+    {
+        "id": 103,
+        "name": "Spider Man",
+        "avatar": [
+            "https://github.com/anhptumax/prank-sounds-res/raw/main/prank_img_idol/Spider Man.png",
+            "https://github.com/thubow/prank-video-idol/raw/main/prank_img_idol/Spider Man.png",
+            "https://github.com/hongnhungumax/prank-video-idol/raw/main/prank_img_idol/Spider Man.png"
+        ],
+        "video": [
+            "https://github.com/anhptumax/prank-sounds-res/raw/main/prank_video_idol/Spider Man.webm",
+            "https://github.com/thubow/prank-video-idol/raw/main/prank_video_idol/Spider Man.webm",
+            "https://github.com/hongnhungumax/prank-video-idol/raw/main/prank_video_idol/Spider Man.webm"
+        ],
+        "messenger": "With great power comes great responsibility.",
+        "isCelebrity": true,
+        "adsVc": true,
+        "adsMs": true
+    },
+    {
+        "id": 104,
+        "name": "Lisa",
+        "avatar": [
+            "https://github.com/anhptumax/prank-sounds-res/raw/main/prank_img_idol/Lisa.png",
+            "https://github.com/thubow/prank-video-idol/raw/main/prank_img_idol/Lisa.png",
+            "https://github.com/hongnhungumax/prank-video-idol/raw/main/prank_img_idol/Lisa.png"
+        ],
+        "video": [
+            "https://github.com/anhptumax/prank-sounds-res/raw/main/prank_video_idol/Lisa.webm",
+            "https://github.com/thubow/prank-video-idol/raw/main/prank_video_idol/Lisa.webm",
+            "https://github.com/hongnhungumax/prank-video-idol/raw/main/prank_video_idol/Lisa.webm"
+        ],
+        "messenger": "I always try my best to show my best self on stage. I want to give fans energetic performances and make them feel happy.",
+        "isCelebrity": true,
+        "adsVc": true,
+        "adsMs": false
+    },
+    {
+        "id": 105,
+        "name": "Ros\u00e9",
+        "avatar": [
+            "https://github.com/anhptumax/prank-sounds-res/raw/main/prank_img_idol/Rose.png",
+            "https://github.com/thubow/prank-video-idol/raw/main/prank_img_idol/Rose.png",
+            "https://github.com/hongnhungumax/prank-video-idol/raw/main/prank_img_idol/Rose.png"
+        ],
+        "video": [
+            "https://github.com/anhptumax/prank-sounds-res/raw/main/prank_video_idol/Rose.webm",
+            "https://github.com/thubow/prank-video-idol/raw/main/prank_video_idol/Rose.webm",
+            "https://github.com/hongnhungumax/prank-video-idol/raw/main/prank_video_idol/Rose.webm"
+        ],
+        "messenger": "I think the most important thing for an artist is to have a sincere heart and love music.",
+        "isCelebrity": true,
+        "adsVc": true,
+        "adsMs": true
+    },
+    {
+        "id": 118,
+        "name": "Doyoung",
+        "avatar": [
+            "https://github.com/anhptumax/prank-sounds-res/raw/main/prank_img_idol/doyoung.png",
+            "https://github.com/thubow/prank-video-idol/raw/main/prank_img_idol/doyoung.png",
+            "https://github.com/hongnhungumax/prank-video-idol/raw/main/prank_img_idol/doyoung.png"
+        ],
+        "video": [
+            "https://github.com/anhptumax/prank-sounds-res/raw/main/prank_video_idol/doyoung.webm",
+            "https://github.com/thubow/prank-video-idol/raw/main/prank_video_idol/doyoung.webm",
+            "https://github.com/hongnhungumax/prank-video-idol/raw/main/prank_video_idol/doyoung.webm"
+        ],
+        "messenger": "We believe that music can change the world. We want to use our music to spread love and positivity.",
+        "isCelebrity": true,
+        "adsVc": true,
+        "adsMs": true
+    },
+    {
+        "id": 119,
+        "name": "jeahyun",
+        "avatar": [
+            "https://github.com/anhptumax/prank-sounds-res/raw/main/prank_img_idol/jeahyun.png",
+            "https://github.com/thubow/prank-video-idol/raw/main/prank_img_idol/jeahyun.png",
+            "https://github.com/hongnhungumax/prank-video-idol/raw/main/prank_img_idol/jeahyun.png"
+        ],
+        "video": [
+            "https://github.com/anhptumax/prank-sounds-res/raw/main/prank_video_idol/jaehyun.webm",
+            "https://github.com/thubow/prank-video-idol/raw/main/prank_video_idol/jaehyun.webm",
+            "https://github.com/hongnhungumax/prank-video-idol/raw/main/prank_video_idol/jaehyun.webm"
+        ],
+        "messenger": "Our dream is to become the biggest boy band in the world. We want to share our music with as many people as possible.",
+        "isCelebrity": true,
+        "adsVc": true,
+        "adsMs": true
+    },
+    {
+        "id": 120,
+        "name": "Joy",
+        "avatar": [
+            "https://github.com/anhptumax/prank-sounds-res/raw/main/prank_img_idol/joy.png",
+            "https://github.com/thubow/prank-video-idol/raw/main/prank_img_idol/joy.png",
+            "https://github.com/hongnhungumax/prank-video-idol/raw/main/prank_img_idol/joy.png"
+        ],
+        "video": [
+            "https://github.com/anhptumax/prank-sounds-res/raw/main/prank_video_idol/joy.webm",
+            "https://github.com/thubow/prank-video-idol/raw/main/prank_video_idol/joy.webm",
+            "https://github.com/hongnhungumax/prank-video-idol/raw/main/prank_video_idol/joy.webm"
+        ],
+        "messenger": "Love yourself first. You can\u2019t love others if you don\u2019t love yourself.",
+        "isCelebrity": true,
+        "adsVc": true,
+        "adsMs": true
+    },
+    {
+        "id": 121,
+        "name": "Kangseulgi",
+        "avatar": [
+            "https://github.com/anhptumax/prank-sounds-res/raw/main/prank_img_idol/kangseulgi.png",
+            "https://github.com/thubow/prank-video-idol/raw/main/prank_img_idol/kangseulgi.png",
+            "https://github.com/hongnhungumax/prank-video-idol/raw/main/prank_img_idol/kangseulgi.png"
+        ],
+        "video": [
+            "https://github.com/anhptumax/prank-sounds-res/raw/main/prank_video_idol/kangseulgi.webm",
+            "https://github.com/thubow/prank-video-idol/raw/main/prank_video_idol/kangseulgi.webm",
+            "https://github.com/hongnhungumax/prank-video-idol/raw/main/prank_video_idol/kangseulgi.webm"
+        ],
+        "messenger": "The only way to see the light is to first embrace the darkness.",
+        "isCelebrity": true,
+        "adsVc": true,
+        "adsMs": true
+    },
+    {
+        "id": 122,
+        "name": "Leeminho",
+        "avatar": [
+            "https://github.com/anhptumax/prank-sounds-res/raw/main/prank_img_idol/leeminho.png",
+            "https://github.com/thubow/prank-video-idol/raw/main/prank_img_idol/leeminho.png",
+            "https://github.com/hongnhungumax/prank-video-idol/raw/main/prank_img_idol/leeminho.png"
+        ],
+        "video": [
+            "https://github.com/anhptumax/prank-sounds-res/raw/main/prank_video_idol/leeminho.webm",
+            "https://github.com/thubow/prank-video-idol/raw/main/prank_video_idol/leeminho.webm",
+            "https://github.com/hongnhungumax/prank-video-idol/raw/main/prank_video_idol/leeminho.webm"
+        ],
+        "messenger": "We are so grateful for your love and support..",
+        "isCelebrity": true,
+        "adsVc": true,
+        "adsMs": true
+    },
+    {
+        "id": 123,
+        "name": "Yeji",
+        "avatar": [
+            "https://github.com/anhptumax/prank-sounds-res/raw/main/prank_img_idol/yeji.png",
+            "https://github.com/thubow/prank-video-idol/raw/main/prank_img_idol/yeji.png",
+            "https://github.com/hongnhungumax/prank-video-idol/raw/main/prank_img_idol/yeji.png"
+        ],
+        "video": [
+            "https://github.com/anhptumax/prank-sounds-res/raw/main/prank_video_idol/yeji.webm",
+            "https://github.com/thubow/prank-video-idol/raw/main/prank_video_idol/yeji.webm",
+            "https://github.com/hongnhungumax/prank-video-idol/raw/main/prank_video_idol/yeji.webm"
+        ],
+        "messenger": "Believe in yourself and never give up.",
+        "isCelebrity": true,
+        "adsVc": true,
+        "adsMs": true
+    },
+    {
+        "id": 124,
+        "name": "Mina",
+        "avatar": [
+            "https://github.com/anhptumax/prank-sounds-res/raw/main/prank_img_idol/Mina.png",
+            "https://github.com/thubow/prank-video-idol/raw/main/prank_img_idol/Mina.png",
+            "https://github.com/hongnhungumax/prank-video-idol/raw/main/prank_img_idol/Mina.png"
+        ],
+        "video": [
+            "https://github.com/anhptumax/prank-sounds-res/raw/main/prank_video_idol/Mina.webm",
+            "https://github.com/thubow/prank-video-idol/raw/main/prank_video_idol/Mina.webm",
+            "https://github.com/hongnhungumax/prank-video-idol/raw/main/prank_video_idol/Mina.webm"
+        ],
+        "messenger": "If you work hard, you can achieve anything.",
+        "isCelebrity": true,
+        "adsVc": false,
+        "adsMs": false
+    },
+    {
+        "id": 125,
+        "name": "Mark Melody",
+        "avatar": [
+            "https://github.com/anhptumax/prank-sounds-res/raw/main/prank_img_idol/Mark Melody.png",
+            "https://github.com/thubow/prank-video-idol/raw/main/prank_img_idol/Mark Melody.png",
+            "https://github.com/hongnhungumax/prank-video-idol/raw/main/prank_img_idol/Mark Melody.png"
+        ],
+        "video": [
+            "https://github.com/anhptumax/prank-sounds-res/raw/main/prank_video_idol/Mark Melody.webm",
+            "https://github.com/thubow/prank-video-idol/raw/main/prank_video_idol/Mark Melody.webm",
+            "https://github.com/hongnhungumax/prank-video-idol/raw/main/prank_video_idol/Mark Melody.webm"
+        ],
+        "messenger": "Music is a universal language that can touch everyone's heart.",
+        "isCelebrity": true,
+        "adsVc": true,
+        "adsMs": true
+    },
+    {
+        "id": 126,
+        "name": "Shua",
+        "avatar": [
+            "https://github.com/anhptumax/prank-sounds-res/raw/main/prank_img_idol/Shua.png",
+            "https://github.com/thubow/prank-video-idol/raw/main/prank_img_idol/Shua.png",
+            "https://github.com/hongnhungumax/prank-video-idol/raw/main/prank_img_idol/Shua.png"
+        ],
+        "video": [
+            "https://github.com/anhptumax/prank-sounds-res/raw/main/prank_video_idol/Shua.webm",
+            "https://github.com/thubow/prank-video-idol/raw/main/prank_video_idol/Shua.webm",
+            "https://github.com/hongnhungumax/prank-video-idol/raw/main/prank_video_idol/Shua.webm"
+        ],
+        "messenger": "No matter what people say, we'll keep going our own way.",
+        "isCelebrity": true,
+        "adsVc": true,
+        "adsMs": true
+    },
+    {
+        "id": 127,
+        "name": "Boo",
+        "avatar": [
+            "https://github.com/anhptumax/prank-sounds-res/raw/main/prank_img_idol/Boo.png",
+            "https://github.com/thubow/prank-video-idol/raw/main/prank_img_idol/Boo.png",
+            "https://github.com/hongnhungumax/prank-video-idol/raw/main/prank_img_idol/Boo.png"
+        ],
+        "video": [
+            "https://github.com/anhptumax/prank-sounds-res/raw/main/prank_video_idol/Boo.webm",
+            "https://github.com/thubow/prank-video-idol/raw/main/prank_video_idol/Boo.webm",
+            "https://github.com/hongnhungumax/prank-video-idol/raw/main/prank_video_idol/Boo.webm"
+        ],
+        "messenger": "The only way to learn is to do it.",
+        "isCelebrity": true,
+        "adsVc": true,
+        "adsMs": true
+    },
+    {
+        "id": 128,
+        "name": "Miani",
+        "avatar": [
+            "https://github.com/anhptumax/prank-sounds-res/raw/main/prank_img_idol/Miani.png",
+            "https://github.com/thubow/prank-video-idol/raw/main/prank_img_idol/Miani.png",
+            "https://github.com/hongnhungumax/prank-video-idol/raw/main/prank_img_idol/Miani.png"
+        ],
+        "video": [
+            "https://github.com/anhptumax/prank-sounds-res/raw/main/prank_video_idol/Miani.webm",
+            "https://github.com/thubow/prank-video-idol/raw/main/prank_video_idol/Miani.webm",
+            "https://github.com/hongnhungumax/prank-video-idol/raw/main/prank_video_idol/Miani.webm"
+        ],
+        "messenger": "We want to make music that can heal people.",
+        "isCelebrity": true,
+        "adsVc": true,
+        "adsMs": true
+    },
+    {
+        "id": 129,
+        "name": "Chaeunwoo",
+        "avatar": [
+            "https://github.com/anhptumax/prank-sounds-res/raw/main/prank_img_idol/Chaeunwoo.png",
+            "https://github.com/thubow/prank-video-idol/raw/main/prank_img_idol/Chaeunwoo.png",
+            "https://github.com/hongnhungumax/prank-video-idol/raw/main/prank_img_idol/Chaeunwoo.png"
+        ],
+        "video": [
+            "https://github.com/anhptumax/prank-sounds-res/raw/main/prank_video_idol/Chaeunwoo.webm",
+            "https://github.com/thubow/prank-video-idol/raw/main/prank_video_idol/Chaeunwoo.webm",
+            "https://github.com/hongnhungumax/prank-video-idol/raw/main/prank_video_idol/Chaeunwoo.webm"
+        ],
+        "messenger": "We want to be the best artists we can be.",
+        "isCelebrity": true,
+        "adsVc": false,
+        "adsMs": false
+    },
+    {
+        "id": 130,
+        "name": "SB19",
+        "avatar": [
+            "https://github.com/anhptumax/prank-sounds-res/raw/main/prank_img_idol/SB19.png",
+            "https://github.com/thubow/prank-video-idol/raw/main/prank_img_idol/SB19.png",
+            "https://github.com/hongnhungumax/prank-video-idol/raw/main/prank_img_idol/SB19.png"
+        ],
+        "video": [
+            "https://github.com/anhptumax/prank-sounds-res/raw/main/prank_video_idol/SB19.webm",
+            "https://github.com/thubow/prank-video-idol/raw/main/prank_video_idol/SB19.webm",
+            "https://github.com/hongnhungumax/prank-video-idol/raw/main/prank_video_idol/SB19.webm"
+        ],
+        "messenger": "The only thing that matters is that you're happy.",
+        "isCelebrity": true,
+        "adsVc": false,
+        "adsMs": true
+    },
+    {
+        "id": 131,
+        "name": "Jimin",
+        "avatar": [
+            "https://github.com/anhptumax/prank-sounds-res/raw/main/prank_img_idol/Jimin.png",
+            "https://github.com/thubow/prank-video-idol/raw/main/prank_img_idol/Jimin.png",
+            "https://github.com/hongnhungumax/prank-video-idol/raw/main/prank_img_idol/Jimin.png"
+        ],
+        "video": [
+            "https://github.com/anhptumax/prank-sounds-res/raw/main/prank_video_idol/Jimin.webm",
+            "https://github.com/thubow/prank-video-idol/raw/main/prank_video_idol/Jimin.webm",
+            "https://github.com/hongnhungumax/prank-video-idol/raw/main/prank_video_idol/Jimin.webm"
+        ],
+        "messenger": "I am so grateful that all of you love us. We are happy because of you, and we can work harder because of you. I love you!",
+        "isCelebrity": true,
+        "adsVc": true,
+        "adsMs": true
+    },
+    {
+        "id": 132,
+        "name": "Biden",
+        "avatar": [
+            "https://github.com/anhptumax/prank-sounds-res/raw/main/prank_img_idol/Biden.png",
+            "https://github.com/thubow/prank-video-idol/raw/main/prank_img_idol/Biden.png",
+            "https://github.com/hongnhungumax/prank-video-idol/raw/main/prank_img_idol/Biden.png"
+        ],
+        "video": [
+            "https://github.com/anhptumax/prank-sounds-res/raw/main/prank_video_idol/Biden.webm",
+            "https://github.com/thubow/prank-video-idol/raw/main/prank_video_idol/Biden.webm",
+            "https://github.com/hongnhungumax/prank-video-idol/raw/main/prank_video_idol/Biden.webm"
+        ],
+        "messenger": "Pressure creates diamonds.",
+        "isCelebrity": true,
+        "adsVc": true,
+        "adsMs": true
+    }
+]
